@@ -1,0 +1,12 @@
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
+
+
+192.168.192.26   master.hadoop.com  master
+192.168.192.168  node1.hadoop.com   node1
+192.168.192.98   node2.hadoop.com   node2
+192.168.192.41   node3.hadoop.com   node3
+192.168.192.33   node4.hadoop.com   node4
+192.168.194.193  node5.hadoop.com   node5
+192.168.194.204  node6.hadoop.com   node6
+192.168.192.47   node7.hadoop.com   node7
